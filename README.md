@@ -4,6 +4,7 @@ _Protect your code with automated unit tests and coverage reports._
 
 ## Welcome
 
+
 - **Who is this for**: Developers, DevOps Engineers, new GitHub users, Testing Engineers
 - **What you'll learn**: What continuous integration is, how to create a workflow with GitHub Actions for testing, and how to enforce it.
 - **What you'll build**: We'll enforce test coverage on sample Python code to run tests against several versions of python in parallel and report results to a pull request, protecting our production version.
