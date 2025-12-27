@@ -39,7 +39,7 @@ def test_get_nth_fibonacci_zero():
     # Arrange
     n = 0
 
-    # Act
+    # Acthttps://github.com/andrzejricoh/skills-test-with-actions/issues/1
     result = get_nth_fibonacci(n)
 
     # Assert
